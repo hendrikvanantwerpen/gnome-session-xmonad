@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=GNOME with Xmonad
+Encoding=UTF-8
+Comment=This session logs you into GNOME with Xmonad
+Exec=gnome-session-xmonad
+Type=Application
+DesktopNames=GNOME-Flashback;Unity;

@@ -1,0 +1,9 @@
+Package: gnome-session-xmonad
+Version: 0.1
+Section: x11
+Priority: optional
+Architecture: all
+Essential: no
+Depends: gnome-session-flashback, xmonad
+Maintainer: Hendrik van Antwerpen <hendrik@van-antwerpen.net>
+Description: Add Xmonad/GNOME session
